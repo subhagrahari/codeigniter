@@ -14,7 +14,7 @@
 				
 		<p> Content by c 2</p>
 
-		<div> D </div
+		<div> D </div>
 	
 	</body>
 
